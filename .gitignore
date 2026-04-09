@@ -1,0 +1,6 @@
+.m2/
+out/
+target/
+*.jar
+groups-output.txt
+output.txt
